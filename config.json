@@ -1,0 +1,40 @@
+{
+    "Hornix": {
+        "Binds": {
+            "Keybind": "RButton",
+            "Pause": "Esc",
+            "Reload": "R"
+        },
+        "Color": {
+            "Saturation": 10
+        },
+        "Bezier": {
+            "LinearCurveX": 0.25,
+            "LinearCurveY": 0.3
+        },
+        "Easing": {
+            "SmoothnessX": 69,
+            "SmoothnessY": 72,
+            "SmoothingReplicatorX": 4,
+            "SmoothingReplicatorY": 4,
+            "SmoothingDividerX": 250,
+            "SmoothingDividerY": 250,
+            "Prediction": {
+                "Enabled": true,
+                "Mode": "Multiplication",
+                "PredictionX": 1.5,
+                "PredictionY": 1.2
+            }
+        },
+        "Misc": {
+            "AimbotUpdateTick": 1000,
+            "AimbotUpdateMS": 1000,
+            "CameraToGunFOV": 90,
+            "FlickTime" : 0
+        },
+        "FOV": {
+            "FOVOffsetX": 5,
+            "FOVOffsetY": 5
+        }
+    }
+}
